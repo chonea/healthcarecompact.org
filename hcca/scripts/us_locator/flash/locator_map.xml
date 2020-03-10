@@ -1,0 +1,546 @@
+<map_locator>
+<configuration
+  name_of_states = "on"
+  name_color="ffffff"
+  name_shadow_color="000000"
+  name_font_size = "11"
+  
+  background_color = "0"
+  borders_color = "ffffff"
+
+  abbreviation = "on"  
+  abbrevation_color = "ffffff"
+  abbrevation_color_hover = "ffffff"
+  
+  popup_background_color = "ffffff"
+  popup_borders_color = "999999"  
+  popup_text_color = "000000"
+  popup_text_size = "10"
+  
+  sounds = "on"
+  animated_state = "on"
+  gradient = "on"
+  light_border = "on"
+  shadow_state = "on"
+>
+</configuration>
+
+
+<map_data>
+<state>
+ <id>1</id>
+ <name>Alabama</name>
+  <link>javascript:window.alert('You can create links to the pages.');</link>
+  <comment>Name Surname
+Business Development Manager
+Phone: (000) 123-4567
+Fax: (000) 123-4567
+E-mail: name@domainname.com
+</comment>
+  <color_map>0xff5959</color_map>
+  <color_map_over>0xf00001</color_map_over>  
+  <frame></frame>
+  <image>photo.jpg</image>
+</state>
+<state>
+ <id>2</id>
+ <name>Alaska</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>3</id>
+ <name>Arizona</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>4</id>
+ <name>Arkansas</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>5</id>
+ <name>California</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>6</id>
+ <name>Colorado</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>7</id>
+ <name>Connecticut</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>8</id>
+ <name>Delaware</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>9</id>
+ <name>District of Columbia</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>10</id>
+ <name>Florida</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>11</id>
+ <name>Georgia</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>12</id>
+ <name>Hawaii</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>13</id>
+ <name>Idaho</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>14</id>
+ <name>Illinois</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>15</id>
+ <name>Indiana</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>16</id>
+ <name>Iowa</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>17</id>
+ <name>Kansas</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>18</id>
+ <name>Kentucky</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>19</id>
+ <name>Louisiana</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>20</id>
+ <name>Maine</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>21</id>
+ <name>Maryland</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>22</id>
+ <name>Massachusetts</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>23</id>
+ <name>Michigan</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>24</id>
+ <name>Minnesota</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>25</id>
+ <name>Mississippi</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>26</id>
+ <name>Missouri</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>27</id>
+ <name>Montana</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>28</id>
+ <name>Nebraska</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>29</id>
+ <name>Nevada</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>30</id>
+ <name>New Hampshire</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>31</id>
+ <name>New Jersey</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>32</id>
+ <name>New Mexico</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>33</id>
+ <name>New York</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>34</id>
+ <name>North Carolina</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>35</id>
+ <name>North Dakota</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>36</id>
+ <name>Ohio</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>37</id>
+ <name>Oklahoma</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>38</id>
+ <name>Oregon</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>39</id>
+ <name>Pennsylvania</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>40</id>
+ <name>Rhode Island</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>41</id>
+ <name>South Carolina</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>42</id>
+ <name>South Dakota</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>43</id>
+ <name>Tennessee</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>44</id>
+ <name>Texas</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>45</id>
+ <name>Utah</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>46</id>
+ <name>Vermont</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>47</id>
+ <name>Virginia</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>48</id>
+ <name>Washington</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>49</id>
+ <name>West Virginia</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>50</id>
+ <name>Wisconsin</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>51</id>
+ <name>Wyoming</name>
+ <link>#</link>
+ <comment></comment>
+ <color_map>0x7798BA</color_map>
+ <color_map_over>0x366CA3</color_map_over>
+ <frame></frame>
+ <image></image>
+</state>
+</map_data>
+</map_locator>

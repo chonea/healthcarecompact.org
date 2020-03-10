@@ -1,0 +1,93 @@
+
+/* ---------- Color Module Styles ----------- */
+
+body,
+body.overlay {
+  color: #3b3b3b;
+}
+.comment .comment-arrow {
+  border-color: #ffffff;
+}
+#page,
+#main-wrapper,
+#main-menu-links li a.active,
+#main-menu-links li.active-trail a {
+  /* background: #ffffff; */
+}
+#page {
+	background-image: url('../images/hcca_static_29.png');
+	background-repeat: repeat;
+	background-position: top center;
+}
+#main-wrapper {
+  background-color: #ffffff;
+	background-image: url('../images/hcca_static_02.png');
+	background-repeat: repeat-x;
+	background-position: 0 -150px;
+}
+.tabs ul.primary li a.active {
+  background-color: #ffffff;
+}
+.tabs ul.primary li.active a {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ffffff;
+}
+#header {
+	/*
+  background-color: #48a9e4;
+  background-image: -moz-linear-gradient(top, #0779bf 0%, #48a9e4 100%);
+  background-image: -ms-linear-gradient(top, #0779bf 0%, #48a9e4 100%);
+  background-image: -o-linear-gradient(top, #0779bf 0%, #48a9e4 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #0779bf), color-stop(1, #48a9e4));
+  background-image: -webkit-linear-gradient(top, #0779bf 0%, #48a9e4 100%);
+  background-image: linear-gradient(top, #0779bf 0%, #48a9e4 100%);
+	*/
+	background-color: #fefefe;
+	background-image: url('../images/hcca_static_02.png');
+	background-repeat: repeat-x;
+	background-position: top center;
+}
+a {
+  color: #0071B3;
+}
+a:hover,
+a:focus {
+  color: #018fe2;
+}
+a:active {
+  color: #23aeff;
+}
+.sidebar .block {
+	/*
+  background-color: #f6f6f2;
+  border-color: #f9f9f9;
+	*/
+}
+#page-wrapper {
+	background-color: #eeeeee;
+}
+#footer-wrapper {
+	background-image: url('../images/hcca_static_26.png');
+	background-repeat: repeat-x;
+	background-position: top center;
+}
+#footer-wrapper div.section {
+	text-align: center;
+	color: #1f6077;
+}
+.region-header,
+.region-header a,
+.region-header li a.active,
+#name-and-slogan,
+#name-and-slogan a {
+	color: #13546e;
+}
+#secondary-menu-links li a {
+	color: #8999a9;
+}
+#secondary-menu-links li a:hover {
+	color: #13546e;
+}
+#featured {
+	color: #ffffff;
+}
